@@ -17,7 +17,7 @@ Node.js y npm
 Instalación
 
 Clonar el repositorio:
-Copygit clone https://github.com/tu-usuario/webdual.git
+Copygit clone https://github.com/atreyu1968/webdual.git
 cd webdual
 
 Instalar dependencias de PHP:
